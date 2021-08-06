@@ -1,5 +1,5 @@
 # lost-cats-aws
-##I used this to practice using aws technologies
+## I used this to practice using aws technologies
 
 URL: [Click Here](https://2020-11-09-dmo-catslostandfoundwebsite.s3.amazonaws.com/index.html)
 
